@@ -1,0 +1,13 @@
+body {
+  background-color: lightgreen;
+}
+
+.text {
+  display: none;
+}
+
+.teaser {
+  width: 300;
+  height: 300;
+  background-color: red;
+}
